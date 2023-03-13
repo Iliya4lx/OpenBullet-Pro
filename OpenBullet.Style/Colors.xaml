@@ -1,0 +1,28 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <LinearGradientBrush x:Key="DarkBackColor" EndPoint="0,1" StartPoint="5,-3" MappingMode="RelativeToBoundingBox" SpreadMethod="Pad">
+        <GradientStop Color="#FF282828"/>
+        <GradientStop Color="#FF141414" Offset="1"/>
+    </LinearGradientBrush>
+
+    <LinearGradientBrush x:Key="WhiteBackColor" EndPoint="0.5,1" StartPoint="0,0">
+        <GradientStop Color="Gainsboro"/>
+        <GradientStop Color="#FF969696" Offset="1"/>
+    </LinearGradientBrush>
+
+    <LinearGradientBrush x:Key="PerpelBackColor" EndPoint="0,1" StartPoint="5,-3" MappingMode="RelativeToBoundingBox" SpreadMethod="Pad">
+        <GradientStop Color="#7c5295"/>
+        <GradientStop Color="#3c1361" Offset="1"/>
+    </LinearGradientBrush>
+
+    <LinearGradientBrush x:Key="PerpelBackColor2" EndPoint="0.5,1" StartPoint="0,0">
+        <GradientStop Color="#7c5295"/>
+        <GradientStop Color="#3c1361" Offset="1"/>
+    </LinearGradientBrush>
+
+    <LinearGradientBrush x:Key="GrayBackColor" EndPoint="0,1" StartPoint="5,-3" MappingMode="RelativeToBoundingBox" SpreadMethod="Pad">
+        <GradientStop Color="#303030"/>
+        <GradientStop Color="#252525" Offset="1"/>
+    </LinearGradientBrush>
+
+</ResourceDictionary>

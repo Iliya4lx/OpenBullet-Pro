@@ -1,0 +1,27 @@
+D:\CShap File\By Iliya\OpenBullte Pro\OpenBullte Pro\bin\Debug\net6.0-windows\OpenBullet Pro.exe
+D:\CShap File\By Iliya\OpenBullte Pro\OpenBullte Pro\bin\Debug\net6.0-windows\OpenBullet Pro.deps.json
+D:\CShap File\By Iliya\OpenBullte Pro\OpenBullte Pro\bin\Debug\net6.0-windows\OpenBullet Pro.runtimeconfig.json
+D:\CShap File\By Iliya\OpenBullte Pro\OpenBullte Pro\bin\Debug\net6.0-windows\OpenBullet Pro.dll
+D:\CShap File\By Iliya\OpenBullte Pro\OpenBullte Pro\bin\Debug\net6.0-windows\OpenBullet Pro.pdb
+D:\CShap File\By Iliya\OpenBullte Pro\OpenBullte Pro\bin\Debug\net6.0-windows\OpenBullet.Resources.dll
+D:\CShap File\By Iliya\OpenBullte Pro\OpenBullte Pro\bin\Debug\net6.0-windows\OpenBullet.Style.dll
+D:\CShap File\By Iliya\OpenBullte Pro\OpenBullte Pro\bin\Debug\net6.0-windows\OpenBullet.Resources.pdb
+D:\CShap File\By Iliya\OpenBullte Pro\OpenBullte Pro\bin\Debug\net6.0-windows\OpenBullet.Style.pdb
+D:\CShap File\By Iliya\OpenBullte Pro\OpenBullte Pro\obj\Debug\net6.0-windows\OpenBullet Pro.csproj.AssemblyReference.cache
+D:\CShap File\By Iliya\OpenBullte Pro\OpenBullte Pro\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\CShap File\By Iliya\OpenBullte Pro\OpenBullte Pro\obj\Debug\net6.0-windows\App.g.cs
+D:\CShap File\By Iliya\OpenBullte Pro\OpenBullte Pro\obj\Debug\net6.0-windows\OpenBullet Pro_MarkupCompile.cache
+D:\CShap File\By Iliya\OpenBullte Pro\OpenBullte Pro\obj\Debug\net6.0-windows\OpenBullet Pro_MarkupCompile.lref
+D:\CShap File\By Iliya\OpenBullte Pro\OpenBullte Pro\obj\Debug\net6.0-windows\App.baml
+D:\CShap File\By Iliya\OpenBullte Pro\OpenBullte Pro\obj\Debug\net6.0-windows\MainWindow.baml
+D:\CShap File\By Iliya\OpenBullte Pro\OpenBullte Pro\obj\Debug\net6.0-windows\OpenBullet Pro.g.resources
+D:\CShap File\By Iliya\OpenBullte Pro\OpenBullte Pro\obj\Debug\net6.0-windows\OpenBullet Pro.GeneratedMSBuildEditorConfig.editorconfig
+D:\CShap File\By Iliya\OpenBullte Pro\OpenBullte Pro\obj\Debug\net6.0-windows\OpenBullet Pro.AssemblyInfoInputs.cache
+D:\CShap File\By Iliya\OpenBullte Pro\OpenBullte Pro\obj\Debug\net6.0-windows\OpenBullet Pro.AssemblyInfo.cs
+D:\CShap File\By Iliya\OpenBullte Pro\OpenBullte Pro\obj\Debug\net6.0-windows\OpenBullet Pro.csproj.CoreCompileInputs.cache
+D:\CShap File\By Iliya\OpenBullte Pro\OpenBullte Pro\obj\Debug\net6.0-windows\OpenBullet Pro.csproj.CopyComplete
+D:\CShap File\By Iliya\OpenBullte Pro\OpenBullte Pro\obj\Debug\net6.0-windows\OpenBullet Pro.dll
+D:\CShap File\By Iliya\OpenBullte Pro\OpenBullte Pro\obj\Debug\net6.0-windows\refint\OpenBullet Pro.dll
+D:\CShap File\By Iliya\OpenBullte Pro\OpenBullte Pro\obj\Debug\net6.0-windows\OpenBullet Pro.pdb
+D:\CShap File\By Iliya\OpenBullte Pro\OpenBullte Pro\obj\Debug\net6.0-windows\OpenBullet Pro.genruntimeconfig.cache
+D:\CShap File\By Iliya\OpenBullte Pro\OpenBullte Pro\obj\Debug\net6.0-windows\ref\OpenBullet Pro.dll

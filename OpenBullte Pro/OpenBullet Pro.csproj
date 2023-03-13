@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>OpenBullte_Pro</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OpenBullet.Resources\OpenBullet.Resources.csproj" />
+    <ProjectReference Include="..\OpenBullet.Style\OpenBullet.Style.csproj" />
+  </ItemGroup>
+
+</Project>

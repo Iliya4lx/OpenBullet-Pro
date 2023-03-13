@@ -1,0 +1,125 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "OpenBullet.Resources/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/OpenBullet.Resources.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OpenBullet.Resources.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "OpenBullet.Style/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/OpenBullet.Style.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OpenBullet.Style.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "OpenBullet.Resources/1.0.0": {
+      "type": "project",
+      "path": "../OpenBullet.Resources/OpenBullet.Resources.csproj",
+      "msbuildProject": "../OpenBullet.Resources/OpenBullet.Resources.csproj"
+    },
+    "OpenBullet.Style/1.0.0": {
+      "type": "project",
+      "path": "../OpenBullet.Style/OpenBullet.Style.csproj",
+      "msbuildProject": "../OpenBullet.Style/OpenBullet.Style.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "OpenBullet.Resources >= 1.0.0",
+      "OpenBullet.Style >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Iliya.Asghari\\.nuget\\packages\\": {},
+    "F:\\Vs Csharp\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\CShap File\\By Iliya\\OpenBullte Pro\\OpenBullte Pro\\OpenBullet Pro.csproj",
+      "projectName": "OpenBullet Pro",
+      "projectPath": "D:\\CShap File\\By Iliya\\OpenBullte Pro\\OpenBullte Pro\\OpenBullet Pro.csproj",
+      "packagesPath": "C:\\Users\\Iliya.Asghari\\.nuget\\packages\\",
+      "outputPath": "D:\\CShap File\\By Iliya\\OpenBullte Pro\\OpenBullte Pro\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "F:\\Vs Csharp\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Iliya.Asghari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "D:\\CShap File\\By Iliya\\OpenBullte Pro\\OpenBullet.Resources\\OpenBullet.Resources.csproj": {
+              "projectPath": "D:\\CShap File\\By Iliya\\OpenBullte Pro\\OpenBullet.Resources\\OpenBullet.Resources.csproj"
+            },
+            "D:\\CShap File\\By Iliya\\OpenBullte Pro\\OpenBullet.Style\\OpenBullet.Style.csproj": {
+              "projectPath": "D:\\CShap File\\By Iliya\\OpenBullte Pro\\OpenBullet.Style\\OpenBullet.Style.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
